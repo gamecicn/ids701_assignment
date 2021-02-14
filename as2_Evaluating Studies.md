@@ -43,11 +43,28 @@ The rental car company has found that the people with the higher deductible insu
 With that in mind, it’s thinking of having all rental agreements use the “high deductible” insurance.
 
 **2.1 Define the outcome of interest**
+
+>In this case car accidents is the outcome of interest. 
+
 **2.2 Define the treatment of interest**
+
+> The treatment is high deductible insurance. 
+
 **2.3 Give a reason that there may be baseline differences between groups**
+
+> People who choose high deductible insurance may understand that they have better driving skills or driving manner, so that they are less likely to encounter a car accident. 
+
 **2.4 Give an example of how you could evaluate that possibility**
+
+> We can compare last year car accidents number of people choosing high deductible insurance with people choosing low deductible insurance.  By doing so, we can figure out whether driving skills or driving manner are baseline differences between the two groups. 
+
 **2.5 Give a reason there may be differential treatment effects**
+
+>It is reasonable that high deductible insurance would warning renters to drive more carefully.  However, more out-of-pocket costs can do nothing about their driving skills.  Hence , it can be expected that the treatment would not take effects for people who choose  low deductible insurance because of their bad driving skills. 
+
 **2.6 Give an example of how you could evaluate that possibility**
+
+>We can collect last year car accidents number when people driving their own car of people from two groups and named the number as OCAN (own car accident number ).  Then we can select two subgroups who shares the same OCAN from the high deductible insurance group and low deductible insurance group.  Since the two subgroups' OCAN are identical, we can expect there is no significant driving skills difference between the two groups.  After that, we can compare the the two subgroups' car accident number when they driving rented cars and name the number as RCAN (rented car accident number ).  Difference of RCAN  would reflect treatment effect more reasonably. 
 
 
 
