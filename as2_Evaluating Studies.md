@@ -10,15 +10,27 @@ They find that their clients with gym memberships are healthier than their clien
 
 **1.1 Define the outcome of interest**
 
->
+>The outcome of this study is personal fitness
 
 **1.2 Define the treatment of interest**
+
+> Owning a gym membership is the treatment.
+
 **1.3 Give a reason that there may be baseline differences between groups**
+
+> People who owning gym membership may be wealthier than people who dose not.  And wealthier people are more likely to access healthier food , better medical resource and longer education. These factors also associated with personal fitness.
+
 **1.4 Give an example of how you could evaluate that possibility**
+
+> If possible, I would include personal income into my survey to eliminate the baseline difference of economic difference.  If there is no significantly income difference between control group and treatment group, it is sate to say personal income would not bring baseline differences. 
+
 **1.5 Give a reason there may be differential treatment effects**
+
+>People who do not owning gym membership may because they are too busy to go gym or just because they prefer to stay at home. If so, owning gym membership would not persuade these people to go gym, let alone improving their fitness. 
+
 **1.6 Give an example of how you could evaluate that possibility**
 
-
+>Sometimes, history is a mirror to the future. To judge whether willingness to going gym is  a key factor to prevent people owning gym member ship, I would find people owning gym membership last year but do not have it currently and mark them as resigning group. Correspondently,  the people who have gym membership both last year and currently would marked as keeping group.   By comparing how many times they go gyms last year,  we can find out difference of fitness willingness between the two groups. 
 
 ## Study 2: Car Insurance
 
