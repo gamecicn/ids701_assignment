@@ -18,19 +18,19 @@ They find that their clients with gym memberships are healthier than their clien
 
 **1.3 Give a reason that there may be baseline differences between groups**
 
-> People who owning gym membership may be wealthier than people who dose not.  And wealthier people are more likely to access healthier food , better medical resource and longer education. These factors also associated with personal fitness.
+> People who are owning gym membership may be wealthier than people who do not. And more affluent people are more likely to access healthier food, better medical resource, and more extended education. These factors are also associated with personal fitness.
 
 **1.4 Give an example of how you could evaluate that possibility**
 
-> If possible, I would include personal income into my survey to eliminate the baseline difference of economic difference.  If there is no significantly income difference between control group and treatment group, it is sate to say personal income would not bring baseline differences. 
+> If possible, I would include personal income into my survey to eliminate the economic difference's baseline differences. Suppose there is no significant income difference between the control group and the treatment group. In that case, it is safe to say personal income would not bring baseline differences. 
 
 **1.5 Give a reason there may be differential treatment effects**
 
->People who do not owning gym membership may because they are too busy to go gym or just because they prefer to stay at home. If so, owning gym membership would not persuade these people to go gym, let alone improving their fitness. 
+>People who do not own gym membership may be too busy to go to the gym or just because they prefer to stay at home. If so, holding a gym membership would not persuade these people to go to the gym, let alone improving their fitness. 
 
 **1.6 Give an example of how you could evaluate that possibility**
 
->Sometimes, history is a mirror to the future. To judge whether willingness to going gym is  a key factor to prevent people owning gym member ship, I would find people owning gym membership last year but do not have it currently and mark them as resigning group. Correspondently,  the people who have gym membership both last year and currently would marked as keeping group.   By comparing how many times they go gyms last year,  we can find out difference of fitness willingness between the two groups. 
+>Sometimes, history is a mirror to the future. To judge whether the willingness to go to the gym is a critical factor in preventing people from owning gym membership, I would find people owning gym membership last year but do not have it currently and mark them as a resigning group. Correspondently, the people who have gym membership last year and now would be marked as a keeping group. By comparing how many times they went to gyms previous year, we can determine the difference in fitness willingness between the two groups. 
 
 ## Study 2: Car Insurance
 
@@ -52,19 +52,19 @@ With that in mind, it’s thinking of having all rental agreements use the “hi
 
 **2.3 Give a reason that there may be baseline differences between groups**
 
-> People who choose high deductible insurance may understand that they have better driving skills or driving manner, so that they are less likely to encounter a car accident. 
+> People who choose high deductible insurance may understand that they have better driving skills or driving manner, so they are less likely to encounter a car accident. 
 
 **2.4 Give an example of how you could evaluate that possibility**
 
-> We can compare last year car accidents number of people choosing high deductible insurance with people choosing low deductible insurance.  By doing so, we can figure out whether driving skills or driving manner are baseline differences between the two groups. 
+> We can compare last year's car accidents to people choosing high deductible insurance with people choosing low deductible insurance. We can figure out whether driving skills or driving manner are baseline differences between the two groups. 
 
 **2.5 Give a reason there may be differential treatment effects**
 
->It is reasonable that high deductible insurance would warning renters to drive more carefully.  However, more out-of-pocket costs can do nothing about their driving skills.  Hence , it can be expected that the treatment would not take effects for people who choose  low deductible insurance because of their bad driving skills. 
+>It is reasonable that high deductible insurance would warn renters to drive more carefully. However, more out-of-pocket costs can do nothing about their driving skills. Hence, people can expect that the treatment would not affect people who choose low deductible insurance because of their poor driving skills. 
 
 **2.6 Give an example of how you could evaluate that possibility**
 
->We can collect last year car accidents number when people driving their own car of people from two groups and named the number as OCAN (own car accident number ).  Then we can select two subgroups who shares the same OCAN from the high deductible insurance group and low deductible insurance group.  Since the two subgroups' OCAN are identical, we can expect there is no significant driving skills difference between the two groups.  After that, we can compare the the two subgroups' car accident number when they driving rented cars and name the number as RCAN (rented car accident number ).  Difference of RCAN  would reflect treatment effect more reasonably. 
+>We can collect last year's car accident number when people drive their own car from two groups and named the number OCAN (own car accident number ). Then we can select two subgroups that shares the same OCAN from the high deductible insurance group and low deductible insurance group. Since the two subgroups' OCAN are identical, we can expect no significant driving skills difference between the two groups. After that, we can compare the two subgroups' car accident numbers when driving rented cars and name the number as RCAN (rented car accident number ). The difference of RCAN would reflect treatment effect more reasonably. 
 
 
 
