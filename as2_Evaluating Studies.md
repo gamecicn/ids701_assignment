@@ -10,7 +10,7 @@ They find that their clients with gym memberships are healthier than their clien
 
 **1.1 Define the outcome of interest**
 
->The outcome of this study is personal fitness
+>The outcome of this study is personal fitness which is associated with healthcare consumption and cost to the insurer.
 
 **1.2 Define the treatment of interest**
 
@@ -22,15 +22,15 @@ They find that their clients with gym memberships are healthier than their clien
 
 **1.4 Give an example of how you could evaluate that possibility**
 
-> If possible, I would include personal income into my survey to eliminate the economic difference's baseline differences. Suppose there is no significant income difference between the control group and the treatment group. In that case, it is safe to say personal income would not bring baseline differences. 
+> If possible, I would include personal income into my survey to eliminate the economic difference's baseline differences. Suppose there is no significant income difference between the control group and the treatment group, then it is safe to say personal income would not bring baseline differences,  because high income will lead to better fitness. 
 
 **1.5 Give a reason there may be differential treatment effects**
 
->People who do not own gym membership may be too busy to go to the gym or just because they prefer to stay at home. If so, holding a gym membership would not persuade these people to go to the gym, let alone improving their fitness. 
+>Here is a possible reason that the treatment effect would fail. People who do not own gym membership may be too busy to go to the gym or just because they prefer to stay at home. If so, holding a gym membership would not persuade these people to go to the gym, let alone improving their fitness. 
 
 **1.6 Give an example of how you could evaluate that possibility**
 
->Sometimes, history is a mirror to the future. To judge whether the willingness to go to the gym is a critical factor in preventing people from owning gym membership, I would find people owning gym membership last year but do not have it currently and mark them as a resigning group. Correspondently, the people who have gym membership last year and now would be marked as a keeping group. By comparing how many times they went to gyms previous year, we can determine the difference in fitness willingness between the two groups. 
+>To example the possible differential treatment effects mentioned in 1.5, here is a possible practice. Sometimes, history is a mirror to the future. To judge whether the willingness to go to the gym is a critical factor in preventing people from owning gym membership, I would find people owning gym membership last year but do not have it currently and mark them as a resigning group. Correspondently, the people who have gym membership last year and now would be marked as a keeping group. By comparing how many times they went to gyms previous year, we can determine the difference in fitness willingness between the two groups. 
 
 ## Study 2: Car Insurance
 
@@ -56,11 +56,11 @@ With that in mind, it’s thinking of having all rental agreements use the “hi
 
 **2.4 Give an example of how you could evaluate that possibility**
 
-> We can compare last year's car accidents to people choosing high deductible insurance with people choosing low deductible insurance. We can figure out whether driving skills or driving manner are baseline differences between the two groups. 
+> We can compare renters' historical driving records. By doing so, we can figure out whether driving skills or driving manner are baseline differences between the two groups. 
 
 **2.5 Give a reason there may be differential treatment effects**
 
->It is reasonable that high deductible insurance would warn renters to drive more carefully. However, more out-of-pocket costs can do nothing about their driving skills. Hence, people can expect that the treatment would not affect people who choose low deductible insurance because of their poor driving skills. 
+>It is reasonable that high deductible insurance would warn renters to drive more carefully; in this case, the treatment effects will be apparent. However, there is another case that the treatment effect may not be noticeable. For example, people can expect that the treatment would not affect people who choose low deductible insurance because of their poor driving skills. 
 
 **2.6 Give an example of how you could evaluate that possibility**
 
@@ -77,11 +77,28 @@ So you’re thinking about also putting up a billboard near your store.
 
 
 **3.1 Define the outcome of interest**
+
+> The outcome of interest is sales of Tesla.
+
 **3.2 Define the treatment of interest**
+
+> The treatment of interest is to put a billboard up near my store.
+
 **3.3 Give a reason that there may be baseline differences between groups**
+
+> There may be baseline differences due to store locations. My store is located in a town outside Durham, while my colleagues' store is near Duke Medical Center in central Durham, which potentially attract more customers such as students and patients.
+
 **3.4 Give an example of how you could evaluate that possibility**
+
+> We could collect and compare the historical sales of two stores in the same period without a billboard. Then compute $E(Y_{0}|D = 0) = E(Y_{0}|D = 1)$ to evaluate that possibility. 
+
 **3.5 Give a reason there may be differential treatment effects**
+
+> Billboards are usually a good way to advertise for dealership in a town.
+
 **3.6 Give an example of how you could evaluate that possibility**
+
+> We could estimate $E(Y_{1}|D = 1) = E(Y_{0}|D = 0)$ to evaluate that possibility. 
 
 
 
